@@ -1,5 +1,5 @@
 package homework.lisson;
-public class MyThread extends Thread{
+public class MyThread extends Thread {
     private float[] arr;
     MyThread(String name, float[] arr) {
         super(name);

@@ -1,5 +1,5 @@
 package homework.lisson;
-public class Task5 {
+public class Task5{
     private static final int size = 10000000;
     private static final int h = size / 2;
     private static float[] arr = new float[size];
